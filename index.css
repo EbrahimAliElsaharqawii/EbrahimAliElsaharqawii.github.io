@@ -1,0 +1,17 @@
+.main{
+    margin-top: 10px;
+    display: none;
+}
+
+.centerDiv {
+    margin-top: 50px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#map {
+    height: 400px;
+    width: 80%;
+    display: "none";
+  }
